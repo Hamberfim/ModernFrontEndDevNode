@@ -7,7 +7,7 @@ Babel integration:
 - npm init -y
 - npm i @babel/core @babel/node --save-dev
 - npm i @babel/preset-env --save-dev
-- create '.babelrc' containing:
+- create '.babelrc' config in root next to package.json containing:
   `{
     "presets": [["@babel/preset-env"]]
 }`
