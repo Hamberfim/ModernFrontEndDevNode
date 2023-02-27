@@ -12,3 +12,7 @@ Babel integration:
     "presets": [["@babel/preset-env"]]
 }`
 - alternative is to use babel.config.json
+- add to package.json:
+  `"scripts": {
+  "start": "babel-node index.js"`
+- run `npm start`
