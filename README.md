@@ -1,6 +1,4 @@
-## Modern Front End Development with Babel & Node.js
-
-Simple Babel Integration:
+### Simple Integration Babel & Node.js:
 
 - npm init -y
 - npm i @babel/core @babel/node --save-dev
