@@ -1,0 +1,24 @@
+{
+  "name": "modernfrontenddevnode",
+  "version": "1.0.0",
+  "description": "Small Compendium for Modern JS Web Development within Node Ecosystem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hamberfim/ModernFrontEndDevNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hamberfim/ModernFrontEndDevNode/issues"
+  },
+  "homepage": "https://github.com/Hamberfim/ModernFrontEndDevNode#readme",
+  "devDependencies": {
+    "@babel/core": "^7.21.0",
+    "@babel/node": "^7.20.7"
+  }
+}
