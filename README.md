@@ -1,4 +1,4 @@
-### Simple Integration Babel & Node.js:
+### Simple Integration of Babel & Node.js:
 
 - npm init -y
 - npm i @babel/core @babel/node --save-dev
